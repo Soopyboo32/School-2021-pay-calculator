@@ -1,0 +1,142 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2021-08-12 11:23:56
+count workspace : c:\Users\adam_\OneDrive\Documents\School\ATAR CS\s2\Programming assessment
+total files : 27
+total code lines : 1423
+total comment lines : 91
+total blank lines : 372
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |           .vbs|              3|              0|              0|   0.21|
+   |            .py|           1102|             91|            365|     77|
+   |          .json|            301|              0|              0|     21|
+   |           .txt|             16|              0|              6|    1.1|
+   |           .bat|              1|              0|              1|  0.070|
+   -------------------------------------------------------------------------
+CODE\about\adean.txt, code is 3, comment is 0, blank is 0.
+CODE\about\english.txt, code is 5, comment is 0, blank is 2.
+CODE\about\hsilgne.txt, code is 5, comment is 0, blank is 2.
+CODE\data.py, code is 153, comment is 15, blank is 68.
+CODE\default_settings.json, code is 48, comment is 0, blank is 0.
+CODE\genHsilgne.py, code is 13, comment is 2, blank is 8.
+CODE\gui.py, code is 115, comment is 15, blank is 41.
+CODE\guiComponents\AboutGui.py, code is 23, comment is 1, blank is 5.
+CODE\guiComponents\AddEmployeeGui.py, code is 144, comment is 7, blank is 41.
+CODE\guiComponents\CreateJobPosition.py, code is 100, comment is 6, blank is 22.
+CODE\guiComponents\CustomNotebook.py, code is 70, comment is 13, blank is 22.
+CODE\guiComponents\EmployeeTab.py, code is 135, comment is 7, blank is 45.
+CODE\guiComponents\EntryWithPlaceholder.py, code is 42, comment is 0, blank is 12.
+CODE\guiComponents\ManageJobPositionsGui.py, code is 54, comment is 1, blank is 20.
+CODE\guiComponents\OptionMenu.py, code is 50, comment is 17, blank is 14.
+CODE\guiComponents\SettingsGui.py, code is 107, comment is 4, blank is 29.
+CODE\language.py, code is 45, comment is 2, blank is 16.
+CODE\settings.json, code is 48, comment is 0, blank is 0.
+CODE\settings.py, code is 42, comment is 0, blank is 17.
+CODE\start.py, code is 9, comment is 1, blank is 5.
+CODE\translations.json, code is 11, comment is 0, blank is 0.
+CODE\translations\adean.json, code is 26, comment is 0, blank is 0.
+CODE\translations\english.json, code is 84, comment is 0, blank is 0.
+CODE\translations\hsilgne.json, code is 84, comment is 0, blank is 0.
+README.txt, code is 3, comment is 0, blank is 2.
+start.bat, code is 1, comment is 0, blank is 1.
+start.vbs, code is 3, comment is 0, blank is 0.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2021-08-14 21:42:33
+count workspace : c:\Users\adam_\OneDrive\Documents\School\ATAR CS\s2\Programming assessment
+total files : 26
+total code lines : 1553
+total comment lines : 93
+total blank lines : 401
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .py|           1250|             93|            394|     80|
+   |          .json|            285|              0|              0|     18|
+   |      .apaycalc|              1|              0|              0|  0.064|
+   |           .bat|              1|              0|              1|  0.064|
+   |           .vbs|              3|              0|              0|   0.19|
+   |           .txt|             13|              0|              6|   0.84|
+   -------------------------------------------------------------------------
+CODE\about\english.txt, code is 5, comment is 0, blank is 2.
+CODE\about\hsilgne.txt, code is 5, comment is 0, blank is 2.
+CODE\data.py, code is 220, comment is 16, blank is 88.
+CODE\default_settings.json, code is 48, comment is 0, blank is 0.
+CODE\genHsilgne.py, code is 13, comment is 2, blank is 8.
+CODE\gui.py, code is 147, comment is 16, blank is 42.
+CODE\guiComponents\AboutGui.py, code is 23, comment is 1, blank is 5.
+CODE\guiComponents\AddEmployeeGui.py, code is 150, comment is 7, blank is 41.
+CODE\guiComponents\CreateJobPosition.py, code is 122, comment is 6, blank is 24.
+CODE\guiComponents\CustomNotebook.py, code is 70, comment is 13, blank is 22.
+CODE\guiComponents\EmployeeTab.py, code is 135, comment is 7, blank is 45.
+CODE\guiComponents\EntryWithPlaceholder.py, code is 42, comment is 0, blank is 12.
+CODE\guiComponents\ManageJobPositionsGui.py, code is 54, comment is 1, blank is 20.
+CODE\guiComponents\OptionMenu.py, code is 50, comment is 17, blank is 14.
+CODE\guiComponents\SettingsGui.py, code is 112, comment is 4, blank is 30.
+CODE\language.py, code is 45, comment is 2, blank is 16.
+CODE\settings.json, code is 48, comment is 0, blank is 0.
+CODE\settings.py, code is 58, comment is 0, blank is 22.
+CODE\start.py, code is 9, comment is 1, blank is 5.
+CODE\translations.json, code is 8, comment is 0, blank is 0.
+CODE\translations\english.json, code is 91, comment is 0, blank is 0.
+CODE\translations\hsilgne.json, code is 90, comment is 0, blank is 0.
+nothing lulw.apaycalc, code is 1, comment is 0, blank is 0.
+README.txt, code is 3, comment is 0, blank is 2.
+start.bat, code is 1, comment is 0, blank is 1.
+start.vbs, code is 3, comment is 0, blank is 0.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2021-08-15 09:43:38
+count workspace : c:\Users\adam_\OneDrive\Documents\School\ATAR CS\s2\Programming assessment
+total files : 25
+total code lines : 1594
+total comment lines : 90
+total blank lines : 413
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |           .vbs|              3|              0|              0|   0.19|
+   |           .bat|              1|              0|              1|  0.063|
+   |          .json|            287|              0|              0|     18|
+   |            .py|           1290|             90|            406|     81|
+   |           .txt|             13|              0|              6|   0.82|
+   -------------------------------------------------------------------------
+CODE\about\english.txt, code is 5, comment is 0, blank is 2.
+CODE\about\hsilgne.txt, code is 5, comment is 0, blank is 2.
+CODE\data.py, code is 220, comment is 16, blank is 88.
+CODE\default_settings.json, code is 49, comment is 0, blank is 0.
+CODE\genHsilgne.py, code is 13, comment is 2, blank is 8.
+CODE\gui.py, code is 171, comment is 13, blank is 49.
+CODE\guiComponents\AboutGui.py, code is 23, comment is 1, blank is 5.
+CODE\guiComponents\AddEmployeeGui.py, code is 150, comment is 7, blank is 41.
+CODE\guiComponents\CreateJobPosition.py, code is 122, comment is 6, blank is 24.
+CODE\guiComponents\CustomNotebook.py, code is 70, comment is 13, blank is 22.
+CODE\guiComponents\EmployeeTab.py, code is 135, comment is 7, blank is 45.
+CODE\guiComponents\EntryWithPlaceholder.py, code is 42, comment is 0, blank is 12.
+CODE\guiComponents\ManageJobPositionsGui.py, code is 54, comment is 1, blank is 20.
+CODE\guiComponents\OptionMenu.py, code is 50, comment is 17, blank is 14.
+CODE\guiComponents\SettingsGui.py, code is 112, comment is 4, blank is 30.
+CODE\language.py, code is 45, comment is 2, blank is 16.
+CODE\settings.json, code is 49, comment is 0, blank is 0.
+CODE\settings.py, code is 74, comment is 0, blank is 27.
+CODE\start.py, code is 9, comment is 1, blank is 5.
+CODE\translations.json, code is 8, comment is 0, blank is 0.
+CODE\translations\english.json, code is 91, comment is 0, blank is 0.
+CODE\translations\hsilgne.json, code is 90, comment is 0, blank is 0.
+README.txt, code is 3, comment is 0, blank is 2.
+start.bat, code is 1, comment is 0, blank is 1.
+start.vbs, code is 3, comment is 0, blank is 0.
+===============================================================================

@@ -1,0 +1,5 @@
+Pay calculator v0.0.1
+Author: Soopyboo32
+
+This program can be used to calculate the wage of an employee
+when given information like their hourly rate, hours worked, ect.

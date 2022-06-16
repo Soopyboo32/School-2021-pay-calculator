@@ -1,0 +1,54 @@
+{
+    "localisation": "english",
+    "baseRate": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.5,
+        1.5
+    ],
+    "overTimePercentUnder3": [
+        1.25,
+        1.25,
+        1.25,
+        1.25,
+        1.25,
+        1.5,
+        1.5
+    ],
+    "overTimePercentOver3": [
+        1.45,
+        1.45,
+        1.45,
+        1.45,
+        1.45,
+        1.5,
+        1.5
+    ],
+    "bonusPay": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        4.0,
+        4.0
+    ],
+    "dayRegularHours": [
+        8.0,
+        8.0,
+        8.0,
+        8.0,
+        8.0,
+        8.0,
+        8.0
+    ],
+    "recentFiles": [
+        [
+            "C:/Users/adam_/OneDrive/Documents/School/ATAR CS/s2/Programming assessment/Example.apaycalc",
+            "Example"
+        ]
+    ]
+}
